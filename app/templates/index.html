@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>AI Knowledge Platform</title>
+
+    <link
+        rel="stylesheet"
+        href="/static/css/style.css"
+    >
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header>
+
+            <h1>📚 AI Knowledge Platform</h1>
+
+            <p>
+                Upload your PDF and ask questions using AI.
+            </p>
+
+        </header>
+
+        <!-- Upload Section -->
+
+        <section class="upload-section">
+
+            <h2>📄 Upload PDF</h2>
+
+            <input
+                type="file"
+                id="pdfFile"
+                accept=".pdf"
+            >
+
+            <button id="uploadBtn">
+                Upload PDF
+            </button>
+
+            <p id="uploadStatus"></p>
+
+        </section>
+
+        <!-- Chat Section -->
+
+        <section class="chat-section">
+
+            <h2>💬 Ask a Question</h2>
+
+            <input
+                id="question"
+                rows="4"
+                placeholder="Ask anything about your uploaded PDF..."
+            ></input>
+
+            <button id="askBtn">
+                Ask AI
+            </button>
+
+            <p id="chatStatus"></p>
+
+        </section>
+
+        <!-- Response Section -->
+
+        <section class="response-section">
+
+            <h2>🤖 AI Response</h2>
+
+            <div id="response">
+
+                Ask a question to see the answer.
+
+            </div>
+
+        </section>
+
+    </div>
+
+    <script src="/static/js/app.js"></script>
+
+</body>
+
+</html>
