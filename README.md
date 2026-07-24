@@ -109,9 +109,6 @@ http://127.0.0.1:8000
 
 ---
 
-## 📸 Screenshots
-
-## 📸 Screenshots
 
 <h2 align="center">results</h2>
 
@@ -153,7 +150,6 @@ http://127.0.0.1:8000
 </tr>
 </table>
 
-*(Add screenshots of the Upload PDF page and AI Response page here after pushing.)*
 
 ---
 
@@ -167,7 +163,4 @@ http://127.0.0.1:8000
 
 ---
 
-## 👨‍💻 Author
-
-**Akhil**
 
