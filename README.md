@@ -111,6 +111,48 @@ http://127.0.0.1:8000
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
+<h2 align="center">results</h2>
+
+<table align="center">
+<tr>
+<td align="center">
+
+<b>Home Page</b><br><br>
+
+<img src="assets/home.png" width="450">
+
+</td>
+
+<td align="center">
+
+<b>PDF Uploaded</b><br><br>
+
+<img src="assets/docupload.png" width="450">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>AI Response - Example 1</b><br><br>
+
+<img src="assets/response1.png" width="450">
+
+</td>
+
+<td align="center">
+
+<b>AI Response - Example 2</b><br><br>
+
+<img src="assets/response2.png" width="450">
+
+</td>
+</tr>
+</table>
+
 *(Add screenshots of the Upload PDF page and AI Response page here after pushing.)*
 
 ---
